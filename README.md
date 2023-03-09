@@ -1,11 +1,8 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://fara-777.in)
-
 
 <h1 align="center">Hi 👋, I'm Farhad Baltayev</h1>
 <h3 align="center">I am currently learning software and I really enjoy learning languages.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fara-777&label=Profile%20views&color=0e75b6&style=flat" alt="fara-777" /> </p>
 
