@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>"I am a passionate frontend developer specializing in creating user-centered and accessible web experiences. My primary focus is on crafting interfaces that cater to the needs of users while prioritizing accessibility. When developing user interfaces, I hold a strong emphasis on writing code that is not only clean, organized, and scalable but also contributes to the overall quality of the project. My commitment to excellence drives me to incorporate the latest frontend technologies and strive for the best practices in all my projects. By staying up-to-date with evolving trends, I aim to deliver seamless and innovative web solutions."
+<br>I am a passionate frontend developer specializing in creating user-centered and accessible web experiences. My primary focus is on crafting interfaces that cater to the needs of users while prioritizing accessibility. When developing user interfaces, I hold a strong emphasis on writing code that is not only clean, organized, and scalable but also contributes to the overall quality of the project. My commitment to excellence drives me to incorporate the latest frontend technologies and strive for the best practices in all my projects. By staying up-to-date with evolving trends, I aim to deliver seamless and innovative web solutions.
 
 
 ## 🌐 Socials:
